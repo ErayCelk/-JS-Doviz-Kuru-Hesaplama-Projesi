@@ -1,2 +1,2 @@
-#  JS İle Doviz Kuru Hesaplama Kodu
+#  JS İle Doviz Kuru Hesaplama Projesi
 Js ile döviz kuru hesaplaması projesi
